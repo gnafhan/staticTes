@@ -1,0 +1,194 @@
+{
+  "frames": [
+    {"filename": "asap1",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap2",
+      "frame": {
+        "x": 674,
+        "y": 0,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 674,
+        "y": 0,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap3",
+      "frame": {
+        "x": 1348,
+        "y": 0,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1348,
+        "y": 0,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap4",
+      "frame": {
+        "x": 0,
+        "y": 674,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 674,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap5",
+      "frame": {
+        "x": 674,
+        "y": 674,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 674,
+        "y": 674,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap6",
+      "frame": {
+        "x": 1348,
+        "y": 674,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1348,
+        "y": 674,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap7",
+      "frame": {
+        "x": 0,
+        "y": 1348,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1348,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap8",
+      "frame": {
+        "x": 674,
+        "y": 1348,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 674,
+        "y": 1348,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    },
+    {"filename": "asap9",
+      "frame": {
+        "x": 1348,
+        "y": 1348,
+        "w": 653,
+        "h": 653
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 1348,
+        "y": 1348,
+        "w": 653,
+        "h": 653
+      },
+      "sourceSize": {
+        "w": 653,
+        "h": 653
+      }
+    }
+  ],
+  "meta": {
+    "app": "https://www.leshylabs.com/apps/sstool/",
+    "version": "Leshy SpriteSheet Tool v0.8.4",
+    "image": "spritesheet.png",
+    "size": {
+      "w": 2000,
+      "h": 2000
+    },
+    "scale": 1
+  }
+}

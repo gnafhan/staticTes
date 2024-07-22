@@ -1,0 +1,131 @@
+{
+    "activeFile": "Gamatopia 2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/Code/ppsmb-fix/public/assets/playonir/Frame 10.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Code/ppsmb-fix/public/assets/playonir/Frame 42.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Code/ppsmb-fix/public/assets/playonir/Frame 67.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Code/ppsmb-fix/public/assets/playonir/Frame 74.tsx": {
+            "scaleInDock": 1
+        },
+        "Frame 10.tsx": {
+            "dynamicWrapping": false
+        },
+        "Frame 122.tsx": {
+            "scaleInDock": 1
+        },
+        "Frame 140 (1) 2 2.tsx": {
+            "scaleInDock": 1
+        },
+        "Frame 154 1.tsx": {
+            "scaleInDock": 1
+        },
+        "Frame 220.tsx": {
+            "scaleInDock": 1
+        },
+        "Frame 222.tsx": {
+            "scaleInDock": 1
+        },
+        "Frame 34752.tsx": {
+            "scaleInDock": 1
+        },
+        "Frame 74.tsx": {
+            "dynamicWrapping": false
+        },
+        "GSP item 1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "GSP.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 1376,
+                "y": 1266
+            }
+        },
+        "Gamatopia 2.tmx#Frame 10": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 122": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 140 (1) 2 2": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 154 1": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 220": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 222": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 34752": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Gamatopia 2.tmx#Frame 42": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 67": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 74": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Frame 95 (2)": {
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#GSP item 1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Gamatopia 2.tmx#Lock": {
+            "scaleInEditor": 1
+        },
+        "Jalan Aspal.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Teknik.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "D:/Code/ppsmb-fix/public/assets/playonir/tiles",
+    "last.externalTilesetPath": "D:/Code/ppsmb-fix/public/assets/playonir/tiles",
+    "last.imagePath": "D:/Code/ppsmb-fix/public/assets/playonir/tiles",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "openFiles": [
+        "Gamatopia 2.tmx"
+    ],
+    "project": "playonir.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "Gamatopia 2.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 34,
+        "width": 34
+    }
+}
